@@ -9,6 +9,6 @@ Origin: Kaggle https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct
 * Modeling Problem: Classification
 * Missing Values: No
 * Duplicated Values: No
-* Unbalanced Dataset: Yes
+* Unbalanced Dataset: Yes 
 
 
