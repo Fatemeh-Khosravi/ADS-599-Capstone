@@ -4,4 +4,4 @@ Team Members
 * Fatemeh Khosravi : fkhosravichangizini@sandiego.edu
 * Hoori Javadnia : hjavadnia@sandiego.edu
 
-Outline of Files: 
+Outline of Files
