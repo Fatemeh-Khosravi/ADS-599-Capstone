@@ -20,8 +20,9 @@ Origin: Kaggle https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct
 * Subarachnoid : Assigned a value of 1 or 0 based on whether the patient has Subarachnoid hemorrhage.
 * Epidural : Assigned a value of 1 or 0 based on whether the patient has Epidural hemorrhage.
 * Subdural : Assigned a value of 1 or 0 based on whether the patient has Subdural hemorrhage.
-* No_Hemorrhage : Assigned a value of 0 or 1 to indicate the presence or absence of a hemorrhage in the patient.
 * Fracture_Yes_No : Assigned a value of 1 or 0 to indicate the presence or absence of a fracture in the patient.
 
+Target Feature:
 
+* No_Hemorrhage : Assigned a value of 0 or 1 to indicate the presence or absence of a hemorrhage in the patient.
 
