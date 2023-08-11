@@ -5,3 +5,6 @@ Team Members
 * Hoori Javadnia : hjavadnia@sandiego.edu
 
 Outline of Files 
+ * Data Preparation
+ * Data Exploration
+ * Modeling
