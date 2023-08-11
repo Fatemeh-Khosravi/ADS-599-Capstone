@@ -14,7 +14,7 @@ Origin: Kaggle https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct
 ## Feature Descriptions
 
 * PatientNumber : Numerical indicators assigned to each patient starts from 49.
-* SliceNumber :  Numerical indicators assigned to each slice images starts from 1. 
+* SliceNumber :  Numerical indicators assigned to each image slices starts from 1. 
 * Intraventricular : Assigned a value of 1 or 0 based on whether the patient has intraventricular hemorrhage.
 * Intraparenchymal : Assigned a value of 1 or 0 based on whether the patient has Intraparenchymal hemorrhage.
 * Subarachnoid : Assigned a value of 1 or 0 based on whether the patient has Subarachnoid hemorrhage.
