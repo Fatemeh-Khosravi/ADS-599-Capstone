@@ -4,7 +4,7 @@ Team Members
 * Fatemeh Khosravi : fkhosravichangizini@sandiego.edu
 * Hoori Javadnia : hjavadnia@sandiego.edu
 
-Outline of Files 
- * Data Preparation
+Outline of Files
  * Data Exploration
+ * Data Preparation
  * Modeling
