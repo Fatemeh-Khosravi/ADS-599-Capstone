@@ -6,6 +6,18 @@ Team Members
 
 Outline of Files
  * Data Exploration
-    <li>&#9675; This is an empty dot.</li>  Exploratory data analysis (EDA)
+    <li class="small-dot"></li>
+</ul>
+
+<style>
+.small-dot {
+  width: 5px;
+  height: 5px;
+  background-color: black;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+}
+</style>  Exploratory data analysis (EDA)
  * Data Preparation
  * Modeling
