@@ -6,6 +6,6 @@ Team Members
 
 Outline of Files
  * Data Exploration
-     Exploratory data analysis (EDA)
+    <li>&#9675; This is an empty dot.</li>  Exploratory data analysis (EDA)
  * Data Preparation
  * Modeling
