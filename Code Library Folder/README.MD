@@ -5,7 +5,7 @@ Team Members
 * Hoori Javadnia : hjavadnia@sandiego.edu
 
 Outline of Files
- * Data Exploration
+ * Data Exploration 
     -  Exploratory data analysis (EDA)
  * Data Preparation
  * Modeling
