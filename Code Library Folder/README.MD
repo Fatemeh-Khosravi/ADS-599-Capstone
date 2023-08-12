@@ -6,18 +6,6 @@ Team Members
 
 Outline of Files
  * Data Exploration
-    <li class="small-dot"></li>
-</ul>
-
-<style>
-.small-dot {
-  width: 5px;
-  height: 5px;
-  background-color: black;
-  border-radius: 50%;
-  display: inline-block;
-  margin-right: 5px;
-}
-</style>  Exploratory data analysis (EDA)
+    **  Exploratory data analysis (EDA)
  * Data Preparation
  * Modeling
