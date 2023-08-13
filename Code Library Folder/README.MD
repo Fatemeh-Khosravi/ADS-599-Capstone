@@ -26,6 +26,6 @@ Team Members
              - Model Training, 5 Fold Cross Validtion
              - Training/Validation Accuracy and Loss
              - Test Data Evaluation
-             - Prdiction
+             - Prdiction 
              - Confusion Matrix
              - ROC Curve
