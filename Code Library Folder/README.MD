@@ -8,7 +8,7 @@ Team Members
 
  * Data Exploration 
 
-       _ Exploratory data analysis (EDA)
+        Exploratory data analysis (EDA)
 
  * Data Preparation and Modeling
 
