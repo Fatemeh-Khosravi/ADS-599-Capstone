@@ -11,8 +11,7 @@ Team Members
         Exploratory data analysis (EDA)
 
  * Data Preparation and Modeling
-
-         Preparation
+ Preparation
 
              - Set the Stage for Binary Classifier
              - Data Handling
