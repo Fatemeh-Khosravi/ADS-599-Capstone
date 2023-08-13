@@ -7,5 +7,5 @@ Team Members
 Outline of Files
  * Data Exploration 
     -  Exploratory data analysis (EDA)
- * Data Preparation
- * Modeling
+ * Data Preparation and Modeling
+ 
