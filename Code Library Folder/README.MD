@@ -6,23 +6,21 @@ Team Members
 
 Outline of Files
  * Data Exploration 
-    -  Exploratory data analysis (EDA)
+      Exploratory data analysis (EDA)
 
  * Data Preparation and Modeling
-    - Preparation
+       Preparation
+        - Set the Stage for Binary Classifier
+        - Data Handling
+        - Balancing Data
+        - Train Test Spliting
+        - Data Augmentation
 
-        __Set the Stage for Binary Classifier
-
-        2-  Data Handling
-        3-  Balancing Data
-        4-  Train Test Spliting
-        5-  Data Augmentation
-
-    - Modeling
-        1- Neural Net Architecture
-        2- Model Training, 5 Fold Cross Validtion
-        3-Training/Validation Accuracy and Loss
-        4-Test Data Evaluation
-        5-Prdiction
-        6-Confusion Matrix
-        7-ROC Curve
+    * Modeling
+        - Neural Net Architecture
+        - Model Training, 5 Fold Cross Validtion
+        - Training/Validation Accuracy and Loss
+        - Test Data Evaluation
+        - Prdiction
+        - Confusion Matrix
+        - ROC Curve
