@@ -11,7 +11,7 @@ Outline of Files
  * Data Preparation and Modeling
     - Preparation
 
-        1- Set the Stage for Binary Classifier
+        # Set the Stage for Binary Classifier
 
         2-  Data Handling
         3-  Balancing Data
