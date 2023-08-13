@@ -20,12 +20,12 @@ Team Members
       - Train Test Spliting
       - Data Augmentation
 
-    - Modeling
+   - Modeling
 
-       - Neural Net Architecture
-       - Model Training, 5 Fold Cross Validtion
-       - Training/Validation Accuracy and Loss
-       - Test Data Evaluation
-       - Prdiction 
-       - Confusion Matrix
-       - ROC Curve
+     - Neural Net Architecture
+     - Model Training, 5 Fold Cross Validtion
+     - Training/Validation Accuracy and Loss
+     - Test Data Evaluation
+     - Prdiction 
+     - Confusion Matrix
+     - ROC Curve
