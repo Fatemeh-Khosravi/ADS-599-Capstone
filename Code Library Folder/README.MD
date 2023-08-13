@@ -6,11 +6,11 @@ Team Members
  
 #### Outline of Files
 
- ###### Data Exploration 
+ * Data Exploration 
 
-       * Exploratory data analysis (EDA)
+       _ Exploratory data analysis (EDA)
 
- ###### Data Preparation and Modeling
+ * Data Preparation and Modeling
 
         * Preparation
 
