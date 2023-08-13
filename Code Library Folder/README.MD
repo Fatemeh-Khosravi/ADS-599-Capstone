@@ -7,16 +7,17 @@ Team Members
  Outline of Files
 
   * Data Exploration 
-       -Exploratory data analysis (EDA)
+        - Exploratory data analysis (EDA)
+
   * Data Preparation and Modeling
-        -Preparation
+        - Preparation
              - Set the Stage for Binary Classifier
              - Data Handling
              - Balancing Data
              - Train Test Spliting
              - Data Augmentation
-         -Modeling
 
+         - Modeling
              - Neural Net Architecture
              - Model Training, 5 Fold Cross Validtion
              - Training/Validation Accuracy and Loss
