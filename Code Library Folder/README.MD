@@ -14,8 +14,8 @@ Team Members
 
      - Preparation
 
-             - Set the Stage for Binary Classifier
-             - Data Handling
+         - Set the Stage for Binary Classifier
+         - Data Handling
              - Balancing Data
              - Train Test Spliting
              - Data Augmentation
