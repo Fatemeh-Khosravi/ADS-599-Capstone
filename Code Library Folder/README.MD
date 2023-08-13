@@ -7,10 +7,10 @@ Team Members
  Outline of Files
 
    Data Exploration 
-        *Exploratory data analysis (EDA)
+        * Exploratory data analysis (EDA)
 
    Data Preparation and Modeling
-        *Preparation
+        * Preparation
              - Set the Stage for Binary Classifier
              - Data Handling
              - Balancing Data
