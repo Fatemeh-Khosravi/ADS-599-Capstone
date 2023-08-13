@@ -12,7 +12,7 @@ Team Members
 
  * Data Preparation and Modeling
 
-        * Preparation
+         Preparation
 
              - Set the Stage for Binary Classifier
              - Data Handling
@@ -20,7 +20,7 @@ Team Members
              - Train Test Spliting
              - Data Augmentation
 
-        * Modeling
+         Modeling
 
              - Neural Net Architecture
              - Model Training, 5 Fold Cross Validtion
