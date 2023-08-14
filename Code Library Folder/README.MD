@@ -15,6 +15,7 @@ Team Members
    - Preparation
 
       - Set the Stage for Binary Classifier
+      - Resizing Images
       - Data Handling
       - Balancing Data
       - Train Test Spliting
